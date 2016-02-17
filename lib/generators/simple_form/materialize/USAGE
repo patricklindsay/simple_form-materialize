@@ -1,0 +1,6 @@
+Description:
+    Generates initialiser file for SimpleForm to configure with Materialize-Sass gem.
+
+Example:
+    rails generate simple_form:materialize:install
+
