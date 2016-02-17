@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    simple_form_materialize (0.0.1)
-      rails (~> 4.2.5.1)
+    simple_form-materialize (0.0.1)
+      rails (~> 4.2)
 
 GEM
   remote: https://rubygems.org/
@@ -103,7 +103,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  simple_form_materialize!
+  simple_form-materialize!
 
 BUNDLED WITH
    1.11.2
